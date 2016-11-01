@@ -14,6 +14,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 - [Development Tools](#development-tools)
 - [Command Line Tools](#command-line-tools)
 - [Database](#database)
+- [System](#system)
 - [Design and Graphics](#design-and-graphics)
 - [Writing](#writing)
 - [Productivity](#productivity)
@@ -66,14 +67,12 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 
 * [Terminix](https://github.com/gnunn1/terminix/) - A tiling terminal emulator for Linux.
 * [tmux](https://github.com/tmux/tmux) tmux is a "terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal.
-* [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool.
 * [Fish Shell](https://fishshell.com/) - A smart and user-friendly terminal, similar to zsh.
 * [Prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for zsh: it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 * [oh-my-zsh](http://ohmyz.sh) - It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Like oh-my-zsh, for Fish Shell.
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for Bash.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do auto-completion and syntax highlighting.
-* [LNav](http://lnav.org) - Log file navigator.
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
 
 ## Database
@@ -82,6 +81,13 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD Application.
 * [Robomongo](https://robomongo.org/) - Native and cross-platform MongoDB management tool.
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - This is a powerful Chrome app to manage your MySQL.
+
+## System
+
+* [sysdig](http://www.sysdig.org/) - System-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze.
+* [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool.
+* [LNav](http://lnav.org) - Log file navigator.
+* [Baobab](https://wiki.gnome.org/Apps/Baobab) - Graphical application to analyse disk usage.
 
 ## Design and Graphics
 
@@ -110,7 +116,6 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 
 * [File Roller](http://fileroller.sourceforge.net/) - Interface for many archiving and compression formats including ZIP, RAR and ACE.
 * [Krusader](https://userbase.kde.org/Krusader) - An advanced twin panel (commander style) file manager.
-* [Baobab](https://wiki.gnome.org/Apps/Baobab) - Graphical application to analyse disk usage.
 
 ## Virtual Machines
 

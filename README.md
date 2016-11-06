@@ -74,7 +74,6 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Like oh-my-zsh, for Fish Shell.
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for Bash.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do auto-completion and syntax highlighting.
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
 
 ## Database
 

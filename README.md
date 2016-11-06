@@ -49,6 +49,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms.
 * [NetBeans IDE](https://netbeans.org/) - A free and open source IDE, mainly used for Java development, but supports many other languages and frameworks.
 * [CodeBlocks](http://codeblocks.org/) - The open source, cross platform, free C, C++ and Fortran IDE.
+* [LiteIDE X](https://github.com/visualfc/liteide) - Simple, open source, cross-platform Go IDE.
 
 ## Development Tools
 
@@ -67,7 +68,8 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 ## Command Line Tools
 
 * [Terminix](https://github.com/gnunn1/terminix/) - A tiling terminal emulator for Linux.
-* [tmux](https://github.com/tmux/tmux) tmux is a "terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal.
+* [screen](https://www.gnu.org/software/screen/) - Multiplexes a physical terminal between several processes, typically interactive shells.
+* [tmux](https://github.com/tmux/tmux) - A "terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal.
 * [Fish Shell](https://fishshell.com/) - A smart and user-friendly terminal, similar to zsh.
 * [Prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for zsh: it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 * [oh-my-zsh](http://ohmyz.sh) - It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout.

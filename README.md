@@ -59,6 +59,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [Koala](http://koala-app.com) - A GUI application for Less, Sass, Compass and CoffeeScript compilation.
 * [Meld](http://meldmerge.org/) - An application to visually compare and merge files.
 * [TeXstudio](http://www.texstudio.org) - An integrated writing environment for creating LaTeX documents.
+* [Gisto](http://www.gistoapp.com/) - Snippets manager, desktop frontend for GitHub Gist.
 
 ### Test Tools
 

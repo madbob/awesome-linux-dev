@@ -36,6 +36,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
         * [git-time-machine](https://github.com/littlebee/git-time-machine) - Visually interact with git command history for a file.
         * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design.
+* [VSCode](https://code.visualstudio.com/) - A simple, yet powerful editor suitable for desktop programming.
 * [Kate](https://kate-editor.org/) - An advanced editor integrated in the KDE desktop environment.
 * [LightTable](https://www.lighttable.com) - The next generation code editor.
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used by programmers, scientists, engineers, students, and system administrators.

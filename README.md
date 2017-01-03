@@ -82,8 +82,9 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL Official GUI.
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD Application.
-* [Robomongo](https://robomongo.org/) - Native and cross-platform MongoDB management tool.
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - This is a powerful Chrome app to manage your MySQL.
+* [Robomongo](https://robomongo.org/) - Native and cross-platform MongoDB management tool.
+* [Redis Desktop Manager](https://redisdesktop.com/) - Redis visual interface.
 
 ## System
 

@@ -101,6 +101,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [Blender](https://www.blender.org/) - 3D creation software.
 * [Trimage](https://trimage.org/) - Compress images in multiple formats.
 * [GColor](http://gcolor2.sourceforge.net/) - Color-picking tool.
+* [GPick](http://www.gpick.org/) - Advanced color picker.
 
 ## Writing
 

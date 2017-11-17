@@ -65,6 +65,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 
 * [LinkChecker](https://wummel.github.io/linkchecker/) - Find out all the invalid links.
 * [GtkInspector](https://wiki.gnome.org/Projects/GTK%2B/Inspector) - Built-in interactive debugging support in GTK+.
+* [FakeSMTP](http://nilhcem.com/FakeSMTP/) - Fake SMTP server with GUI for testing emails in applications easily.
 
 ## Command Line Tools
 

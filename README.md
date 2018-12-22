@@ -69,7 +69,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 
 ## Command Line Tools
 
-* [Terminix](https://github.com/gnunn1/terminix/) - A tiling terminal emulator for Linux.
+* [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux.
 * [screen](https://www.gnu.org/software/screen/) - Multiplexes a physical terminal between several processes, typically interactive shells.
 * [tmux](https://github.com/tmux/tmux) - A "terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal.
 * [Fish Shell](https://fishshell.com/) - A smart and user-friendly terminal, similar to zsh.

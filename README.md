@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a collection of **awesome** Linux applications and tools for developers. All of them are freesoftware and opensource; most are directly installable with the package manager built into your preferred distribution.
+This is a collection of **awesome** Linux applications and tools for developers.This is gonna be crazy. All of them are freesoftware and opensource; most are directly installable with the package manager built into your preferred distribution.So guyz enjoy it.
 
 Any comment or suggestion? Cannot you find an application to do something? [Let us know!](https://github.com/madbob/awesome-linux/issues)
 

@@ -4,7 +4,7 @@
 
 This is a collection of **awesome** Linux applications and tools for developers. All of them are freesoftware and opensource; most are directly installable with the package manager built into your preferred distribution.
 
-Any comment or suggestion? Cannot you find an application to do something? [Let us know!](https://github.com/madbob/awesome-linux/issues)
+Any comment or suggestion? Cannot you find an application to do something? [Let us know!](https://github.com/madbob/awesome-linux-dev/issues)
 
 Initial contents and hierarchy inspired by the [Awesome Mac list](https://github.com/jaywcjlove/awesome-mac/). More general-purpose applications can be found in the [Awesome Linux Software list](https://github.com/VoLuong/Awesome-Linux-Software). To contribute, [read the specific file](CONTRIBUTING.md).
 

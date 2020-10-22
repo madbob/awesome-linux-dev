@@ -130,6 +130,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 
 ## Translation Tools
 
+* [Localazy](https://localazy.com) - Developer-friendly localization tool for mobile, desktop and web apps. 
 * [Poedit](https://poedit.net/) - The best editor for translating gettext PO files.
 * [Lokalize](https://userbase.kde.org/Lokalize) - Localization tool for KDE and other open source software.
 

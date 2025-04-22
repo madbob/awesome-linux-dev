@@ -47,6 +47,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, JavaScript and PHP.
 * [QtCreator](https://wiki.qt.io/Qt_Creator) - A cross-platform IDE tailored to the needs of Qt developers.
 * [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms.
+* [GoCodeo](https://www.gocodeo.com/) -  AI agent for building full-stack apps in minutes. 
 * [NetBeans IDE](https://netbeans.org/) - A free and open source IDE, mainly used for Java development, but supports many other languages and frameworks.
 * [CodeBlocks](http://codeblocks.org/) - The open source, cross platform, free C, C++ and Fortran IDE.
 * [LiteIDE X](https://github.com/visualfc/liteide) - Simple, open source, cross-platform Go IDE.

@@ -27,17 +27,10 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 
 ### Editors
 
-* [Atom](https://atom.io) - A hackable text editor.
-    * Plugins
-        * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
-        * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete + paths suggestions
-        * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
-        * [atom-beautify](https://atom.io/packages/atom-beautify) - Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more.
-        * [git-time-machine](https://github.com/littlebee/git-time-machine) - Visually interact with git command history for a file.
-        * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
+* [Pulsar](https://pulsar-edit.dev/) - A community-led hackable text editor (forked from Atom).
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design.
 * [Kate](https://kate-editor.org/) - An advanced editor integrated in the KDE desktop environment.
-* [LightTable](https://www.lighttable.com) - The next generation code editor.
+* [Lapce](https://lap.dev/lapce/) - Lightning-fast and powerful code editor, written in Rust.
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used by programmers, scientists, engineers, students, and system administrators.
 * [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient.
 
@@ -66,6 +59,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [LinkChecker](https://wummel.github.io/linkchecker/) - Find out all the invalid links.
 * [GtkInspector](https://wiki.gnome.org/Projects/GTK%2B/Inspector) - Built-in interactive debugging support in GTK+.
 * [FakeSMTP](http://nilhcem.com/FakeSMTP/) - Fake SMTP server with GUI for testing emails in applications easily.
+* [FakeSmtpServer](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP server for testing purpose.
 
 ## Command Line Tools
 
@@ -84,8 +78,6 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL Official GUI.
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD Application.
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - This is a powerful Chrome app to manage your MySQL.
-* [Robomongo](https://robomongo.org/) - Native and cross-platform MongoDB management tool.
-* [Redis Desktop Manager](https://redisdesktop.com/) - Redis visual interface.
 
 ## System
 

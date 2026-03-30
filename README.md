@@ -72,6 +72,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Like oh-my-zsh, for Fish Shell.
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for Bash.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do auto-completion and syntax highlighting.
+* [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL.
 
 ## Database
 

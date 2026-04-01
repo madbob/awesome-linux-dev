@@ -28,6 +28,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 ### Editors
 
 * [Pulsar](https://pulsar-edit.dev/) - A community-led hackable text editor (forked from Atom).
+* [Zed](https://zed.dev/) - A minimal code editor crafted for speed and collaboration with humans and AI.
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design.
 * [Kate](https://kate-editor.org/) - An advanced editor integrated in the KDE desktop environment.
 * [Lapce](https://lap.dev/lapce/) - Lightning-fast and powerful code editor, written in Rust.
@@ -56,10 +57,12 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 
 ### Test Tools
 
+* [Bruno](https://www.usebruno.com/) - Git-friendly and offline-first open-source API client.
 * [LinkChecker](https://wummel.github.io/linkchecker/) - Find out all the invalid links.
 * [GtkInspector](https://wiki.gnome.org/Projects/GTK%2B/Inspector) - Built-in interactive debugging support in GTK+.
 * [FakeSMTP](http://nilhcem.com/FakeSMTP/) - Fake SMTP server with GUI for testing emails in applications easily.
 * [FakeSmtpServer](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP server for testing purpose.
+* [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL.
 
 ## Command Line Tools
 
@@ -72,13 +75,13 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Like oh-my-zsh, for Fish Shell.
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for Bash.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do auto-completion and syntax highlighting.
-* [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL.
 
 ## Database
 
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL Official GUI.
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD Application.
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - This is a powerful Chrome app to manage your MySQL.
+* [SQLiteBrowser](https://sqlitebrowser.org/) - High quality, visual, open source tool designed for people who want to create, search, and edit SQLite or SQLCipher database files.
 
 ## System
 

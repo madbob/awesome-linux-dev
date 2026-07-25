@@ -85,6 +85,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 
 ## System
 
+* [Gaze](https://gaze.gundulabs.com/) - Facial authentication for Linux with on-device face recognition, PAM integration, and tools for login, lock screen, sudo, and desktop management.
 * [sysdig](http://www.sysdig.org/) - System-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool.
 * [LNav](http://lnav.org) - Log file navigator.

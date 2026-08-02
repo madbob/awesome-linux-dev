@@ -113,6 +113,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [Freeplane](http://freeplane.sourceforge.net/) - Free mind mapping and knowledge management software.
 * [ShellShape](http://gfxmonk.net/shellshape/) - Gnome extension for tiling windows.
 * [KeePassX](https://www.keepassx.org) - A light-weight and open-source password management app.
+- [WeekLife](https://letmethink.cc/app/weeklife/) - A lightweight life check-in tool for reclaiming everyday life beyond work.
 
 ## File Management
 

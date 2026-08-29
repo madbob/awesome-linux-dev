@@ -52,6 +52,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [Gitg](https://wiki.gnome.org/Apps/Gitg/) - The GNOME GUI client to view git repositories.
 * [Koala](http://koala-app.com) - A GUI application for Less, Sass, Compass and CoffeeScript compilation.
 * [Meld](http://meldmerge.org/) - An application to visually compare and merge files.
+* [Nutilz](https://nutilz.com) - Free browser-based developer utilities including regex tester, JSON formatter, chmod calculator, diff checker, and SQL formatter.
 * [TeXstudio](http://www.texstudio.org) - An integrated writing environment for creating LaTeX documents.
 * [Gisto](http://www.gistoapp.com/) - Snippets manager, desktop frontend for GitHub Gist.
 

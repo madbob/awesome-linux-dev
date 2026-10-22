@@ -82,6 +82,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD Application.
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - This is a powerful Chrome app to manage your MySQL.
 * [SQLiteBrowser](https://sqlitebrowser.org/) - High quality, visual, open source tool designed for people who want to create, search, and edit SQLite or SQLCipher database files.
+* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Open source SQL editor and database manager for MySQL, PostgreSQL, SQLite, SQL Server and more.
 
 ## System
 

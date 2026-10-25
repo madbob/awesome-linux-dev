@@ -54,6 +54,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [Meld](http://meldmerge.org/) - An application to visually compare and merge files.
 * [TeXstudio](http://www.texstudio.org) - An integrated writing environment for creating LaTeX documents.
 * [Gisto](http://www.gistoapp.com/) - Snippets manager, desktop frontend for GitHub Gist.
+* [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ### Test Tools
 

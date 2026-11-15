@@ -54,6 +54,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [Meld](http://meldmerge.org/) - An application to visually compare and merge files.
 * [TeXstudio](http://www.texstudio.org) - An integrated writing environment for creating LaTeX documents.
 * [Gisto](http://www.gistoapp.com/) - Snippets manager, desktop frontend for GitHub Gist.
+* [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and MCP server (`https://nostairsplease.com/mcp`) for touring musicians.
 
 ### Test Tools
 

@@ -54,6 +54,7 @@ Initial contents and hierarchy inspired by the [Awesome Mac list](https://github
 * [Meld](http://meldmerge.org/) - An application to visually compare and merge files.
 * [TeXstudio](http://www.texstudio.org) - An integrated writing environment for creating LaTeX documents.
 * [Gisto](http://www.gistoapp.com/) - Snippets manager, desktop frontend for GitHub Gist.
+* [DevProjex](https://github.com/Avazbek22/DevProjex) - Turns a codebase into token-efficient context for LLMs and coding agents, with secrets masked: desktop app, CLI, TUI, and MCP server, with Linux x64 and ARM64 releases.
 
 ### Test Tools
 
